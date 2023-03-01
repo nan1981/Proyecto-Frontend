@@ -1,0 +1,70 @@
+
+
+header {
+
+    width: 50px;
+    height: 50px;
+    border-color: aqua;
+    display: inline-block;
+    
+    
+}
+
+div#foto {
+    margin: 10px;
+    margin-top: 5px;
+    width: 100px;
+    height: 100px;
+    position: left;
+}
+
+div#titulo {
+    margin: 5px;
+    margin-top: 2.5px;
+    width: 100px;
+    height: 100px;
+    position: right;
+}
+
+div#inicio {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    background-color: rgb(225, 112, 112);
+    opacity: 0.9;
+    -webkit-transition: width 0.2s ;
+    -moz-transition: width 0.2s ;
+    -moz-transition: width 0.2s ;
+    border-color: blueviolet;
+}
+
+
+nav.barra {
+
+    position:relative;
+    padding: 16px;
+    padding-right: 25px;
+    float:none;
+    color: azure;
+    opacity: 0.6;
+    font-size: 1.2em;
+
+}
+
+
+section {
+    position: relative;
+    width: 400px;
+    height: auto;
+    border-color: darkcyan;
+
+
+}
+
+footer {
+
+    position: relative;
+    width: 1280px;
+    height: auto;
+    border-color: goldenrod;
+}

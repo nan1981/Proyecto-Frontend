@@ -1,0 +1,49 @@
+
+
+
+
+div#general {
+    margin:0px;
+    margin-top: 0px;
+    width: 1280px;
+    height: 720px;
+    background-color: blueviolet;
+}
+
+section#inicio {
+    position:absolute;
+    width: 200px ;
+    height: 520px;
+    background-color: rgb(22, 17, 17);
+ }
+
+div#fotocv {
+    scroll-margin-left: left;
+    margin-top: 0%;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(9, 255, 0);    
+}
+
+div.barra {
+    position: absolute;
+    height: 100px ;
+    width: 0px;
+    background-color: rgb(225, 112, 112);
+    opacity: 0.9;
+    -webkit-transition: width 0.2s ;
+    -moz-transition: width 0.2s ;
+    -moz-transition: width 0.2s ;
+}
+
+nav#nav {
+    position:relative;
+    padding: 16px;
+    padding-right: 25px;
+    float:none;
+    color: azure;
+    opacity: 0.6;
+    font-size: 1.2em;
+      
+}
+
